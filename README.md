@@ -1,2 +1,4 @@
-# Dokumentasi video Proyek Analisis Data Dicoding
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9zhF0CDHEHg" frameborder="0" allowfullscreen></iframe>
+Dokumentasi Video Proyek Analisis Data Dicoding: Belajar Analisis Data dengan Python
+[![Video Proyek Analisis Data Dicoding](https://img.youtube.com/vi/9zhF0CDHEHg/0.jpg)](https://www.youtube.com/watch?v=9zhF0CDHEHg)
+
+
