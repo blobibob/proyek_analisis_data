@@ -7,8 +7,8 @@ from babel.numbers import format_currency
 from datetime import datetime
 
 # Load data
-day_df = pd.read_csv(r"dashboard\cleaned_day.csv")
-hour_df = pd.read_csv(r"dashboard\cleaned_hour.csv")
+day_df = pd.read_csv(r"dashboard/cleaned_day.csv")
+hour_df = pd.read_csv(r"dashboard/cleaned_hour.csv")
 
 # Navbar
 st.sidebar.title("Navigation")
